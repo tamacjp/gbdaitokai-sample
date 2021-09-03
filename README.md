@@ -2,6 +2,8 @@
 ============================
 
 
-git リポジトリを作ったり commit したりすることができます。
+git repository を作ったり commit したりすることができます。
 
 branch-1 での編集です。
+
+edit in branch-2.
